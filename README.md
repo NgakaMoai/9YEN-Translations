@@ -1,5 +1,5 @@
-# 9Yin-Fan-made-English-text
-*Fan translation/localization text for 九陰真經/9Yin - Includes text.package updates, changelogs, and version notes.*
+# Fanmade-English-Text
+*Fan translation/localization text for 九陰真經/9Yin/Age of Wushu - Includes text.package updates, changelogs, and version notes.*
 *Translations made by community*
 
 **Do not redistribute or sell these files**
